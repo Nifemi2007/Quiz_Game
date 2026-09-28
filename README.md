@@ -6,3 +6,5 @@
 - Enter the number of questions you want to answer
 - The question is displayed and you enter the correct answer
 - After all the questions have been answered, the result is displayed
+- If you wish to continue, enter "y"
+- If you wish to end enter "n"
